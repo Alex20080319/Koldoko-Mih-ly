@@ -3,7 +3,7 @@
 A **Halászbástya** Budapest egyik legismertebb és legszebb kilátópontja, a Budai Várnegyedben található.  
 A 19. század végén épült neoromán stílusban, és a város egyik legismertebb turistalátványossága.  
 
-![Halászbástya](kepek/halaszbastyja.pjg)
+![Halászbástya](kepek/halaszbastyja.jpg)
 
 
 A bástyáról gyönyörű panoráma nyílik Budapest belvárosára, a Dunára és a Parlamentre.  
