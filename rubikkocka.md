@@ -6,5 +6,5 @@ Az alkotás egy kirakott Rubik-kockát ábrázol, amely a találékonyság, a lo
 A bűvös kocka 1974-ben született meg, és azóta világszerte ismertté vált, mint a magyar kreativitás egyik jelképe.  
 A szobor elhelyezése egyfajta tisztelgés a találmány előtt, amely generációkat inspirált és számtalan kihívást kínált a kirakás művészetében.
 
-![Rubik-kocka miniszobor](kepek/rubikk ocka2.jpg)
+![Rubik-kocka miniszobor](kepek/rubikkocka2.jpg)
 kepek/rubikkocka2.jpg
