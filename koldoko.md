@@ -1,11 +1,5 @@
 # Kolodko Mihály élete és munkássága
 
-## 1.1 Képek Kolodkóról
-
-
-
-## 1.2 Esszé Kolodko életéről és munkásságáról
-
 **Kolodko Mihály** a kortárs magyar szobrászat egyik meghatározó alakja, aki különleges miniszobrokkal vált ismertté. Munkásságában a kis méretű szobrok, amelyek gyakran a városi környezetben jelennek meg, kiemelkedő szerepet kapnak. Az alkotásaiban a minimalizmus és a részletgazdag kidolgozás ötvöződik, miközben az egyes művek valamilyen társadalmi, kulturális vagy történelmi vonatkozással bírnak.
 
 ![Koldoko Mihaly](kepek/koldoko.jpg)
