@@ -8,7 +8,7 @@ kepek>......................< ide majd szerintem
 
 **Kolodko Mihály** a kortárs magyar szobrászat egyik meghatározó alakja, aki különleges miniszobrokkal vált ismertté. Munkásságában a kis méretű szobrok, amelyek gyakran a városi környezetben jelennek meg, kiemelkedő szerepet kapnak. Az alkotásaiban a minimalizmus és a részletgazdag kidolgozás ötvöződik, miközben az egyes művek valamilyen társadalmi, kulturális vagy történelmi vonatkozással bírnak.
 
-![Koldoko Mihaly]()
+![Koldoko Mihaly](kepek/koldoko.jpg)
 
 Kolodko Mihály pályafutása nemcsak a szobrászati világban, hanem a városi művészetek körében is figyelmet keltett. Egyik legismertebb műve, a **Főkukac** miniszobra a híres **Nagy ho-ho-ho horgász** című meséből származik, amely a gyermekek számára egy szimbolikus találkozási pontot jelentett a művészet és a popkultúra között. Az ő alkotásai számos városban megjelentek, gyakran titokban, rejtett helyeken, hogy a felfedezők örömmel találják meg őket.
 
