@@ -2,7 +2,7 @@
 
 ## 1.1 Képek Kolodkóról
 
-kepek>......................< ide majd szerintem
+
 
 ## 1.2 Esszé Kolodko életéről és munkásságáról
 
