@@ -20,7 +20,7 @@ Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem 
 
 8 db kis kép 500 px legyen
 
- ![Kolodko3](kepek/koldoko3.jpg)  ![Kolodko2](kepek/image(5).jpg) 
+ ![Kolodko3](kepek/koldoko3.jpg)  ![Kolodko2](kepek/image5.jpg) 
 |----------------------------------|---------------------------------|
 
 
