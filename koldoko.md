@@ -19,3 +19,4 @@ Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem 
 5. **Interjú Kolodko Mihállyal**
 
 8 db kis kép 500 px legyen
+![Koldoko Mihaly](kepek/koldoko2.jpg)
