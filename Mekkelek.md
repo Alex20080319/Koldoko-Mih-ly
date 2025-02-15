@@ -42,7 +42,12 @@ Az épület különlegessége, hogy itt található Budapest leghosszabb **mozg�
 ![Szélkálmántér](kepek/Szellkalmanterr.jpg)
 
 A modern metróépület a tér közlekedési csomópontjaként szolgál, és fontos szerepet játszik a város tömegközlekedési hálózatában.  
-Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelentős.
+Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelent
+
+
+Google térkép:
+https://maps.app.goo.gl/Q1LxMB9qWar9DVh46
+
 
 
 
