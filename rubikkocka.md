@@ -27,5 +27,8 @@ A **Budai Vár** Budapest egyik legismertebb történelmi helyszíne, amely a 13
 
 A várudvarból csodálatos kilátás nyílik a városra és a Dunára. A **Halászbástya** és a **Mátyás-templom** is a vár területén találhatóak.
 
+Goggle térkép:
+https://maps.app.goo.gl/s8MhgsML6TfbLmeB9
+
 
 
