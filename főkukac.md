@@ -29,6 +29,9 @@ A 19. század végén épült neoromán stílusban, és a város egyik legismert
 A bástyáról gyönyörű panoráma nyílik Budapest belvárosára, a Dunára és a Parlamentre.  
 A Halászbástya különlegességei közé tartoznak a mesébe illő tornyai és a teraszai, amelyek a látogatók számára lenyűgöző kilátást biztosítanak.
 
+Google térkép:
+https://maps.app.goo.gl/qCJCEAbG6BrjWvwT7
+
 
 
 
