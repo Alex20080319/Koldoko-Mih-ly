@@ -4,6 +4,7 @@
 
 ![Koldoko Mihaly](kepek/koldoko.jpg)
 
+Koldoko Mihály link:https://hu.wikipedia.org/wiki/Kolodko_Mih%C3%A1ly
 # Kolodko Mihály
 
 Kolodko Mihály egy magyar szobrász, aki a modern köztéri szobrászat egyik kiemelkedő alakja. Munkássága során számos olyan művet alkotott, amelyek a mindennapi élet egyszerű, de jelentőségteljes pillanatait örökítik meg. A művész különösen híres a kis szobrok elhelyezéséről, amelyek gyakran meglepő helyeken tűnnek fel, mint például városi terek, buszmegállók vagy parkok. Ezen szobrok nem csupán esztétikai értéket képviselnek, hanem fontos társadalmi és filozófiai kérdéseket is felvetnek.
