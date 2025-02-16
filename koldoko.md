@@ -29,3 +29,13 @@ Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem 
 ![Kolodko2](kepek/mihaly2.jpg)
 
 mihaly1.jpg
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="kepek/koldoko3.jpg" alt="Kolodko3">
+  <img src="kepek/image5.jpg" alt="Kolodko2">
+  <img src="kepek/koldoko6.jpg" alt="Kolodko2">
+  <img src="kepek/koldoko7.jpg" alt="Kolodko2">
+  <img src="kepek/koldoko9.jpg" alt="Kolodko2">
+  <img src="kepek/mihaly1.jpg" alt="Kolodko2">
+  <img src="kepek/mihaly2.jpg" alt="Kolodko2">
+</div>
+
