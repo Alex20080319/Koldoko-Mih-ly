@@ -26,6 +26,6 @@ Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem 
 ![Kolodko2](kepek/koldoko7.jpg) 
 ![Kolodko2](kepek/koldoko9.jpg) 
 ![Kolodko2](kepek/mihaly1.jpg)
+![Kolodko2](kepek/mihaly2.jpg)
 
-
-
+mihaly1.jpg
