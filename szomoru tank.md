@@ -1,4 +1,4 @@
-# Szomorű tank Szobor
+# Szomorú tank Szobor
 
 A **szomorú tankszobor** egy kis méretű műalkotás, amely a koldulás vagy szegénység témáját ábrázolja. Az ilyen szobrok gyakran szociális vagy társadalmi problémákat emelnek ki, mint a társadalmi kirekesztettség, szegénység és emberség.
 
