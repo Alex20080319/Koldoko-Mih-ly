@@ -9,7 +9,7 @@ A szobor elhelyezése egyfajta tisztelgés a találmány előtt, amely generáci
 
 
 
-:# Gellért-hegyés fürdő
+# Gellért-hegyés fürdő
 
 Gellért fürdő link:https://hu.wikipedia.org/wiki/Gell%C3%A9rt_gy%C3%B3gyf%C3%BCrd%C5%91
 A **Gellért-hegy** Budapest egyik legismertebb hegyvidéki területe, amely a város szívéből, a Duna mentén emelkedik. A hegy tetején található a **Szabadság-szobor**, amely Budapest egyik legismertebb szobraként a szabadságot és a függetlenséget szimbolizálja.
@@ -20,7 +20,7 @@ Az **Gellért Fürdő** és a híres **Gellért Szálló** is itt találhatóak,
 
 
 
-:# Budai Vár
+# Budai Vár
 
 A **Budai Vár** Budapest egyik legismertebb történelmi helyszíne, amely a 13. században épült. A vár az UNESCO Világörökség része, és számos fontos intézménynek ad otthont, mint a **Magyar Nemzeti Galéria** és a **Történeti Múzeum**.
 
@@ -31,6 +31,8 @@ A várudvarból csodálatos kilátás nyílik a városra és a Dunára. A **Hal�
 
 Goggle térkép:
 https://maps.app.goo.gl/s8MhgsML6TfbLmeB9
+
+Források:Wikipédia,Google trékép
 
 
 
