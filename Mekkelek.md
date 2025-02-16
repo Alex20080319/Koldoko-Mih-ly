@@ -40,10 +40,10 @@ bemutatva a pénz történelmét és fejlődését. A látogatók interaktív ki
 A **Széll Kálmán tér** arculatát meghatározza a **legyező alakú metróépület**, amely 1972 óta működik.  
 Az épület különlegessége, hogy itt található Budapest leghosszabb **mozgólépcsője**, amely a tér és a metró közötti kapcsolatot biztosítja.  
 
-![Szélkálmántér](kepek/Szellkalmanterr.jpg)
+![Széllkálmántér](kepek/Szellkalmanterr.jpg)
 
 
-Széllkálmán tér link :https://hu.wikipedia.org/wiki/Sz%C3%A9ll_K%C3%A1lm%C3%A1n_t%C3%A9r
+Széll kálmán tér link :https://hu.wikipedia.org/wiki/Sz%C3%A9ll_K%C3%A1lm%C3%A1n_t%C3%A9r
 A modern metróépület a tér közlekedési csomópontjaként szolgál, és fontos szerepet játszik a város tömegközlekedési hálózatában.  
 Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelent
 
