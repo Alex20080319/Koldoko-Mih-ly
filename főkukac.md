@@ -25,13 +25,13 @@ A **Halászbástya** Budapest egyik legismertebb és legszebb kilátópontja, a 
 A 19. század végén épült neoromán stílusban, és a város egyik legismertebb turistalátványossága.  
 
 ![Halászbástya](kepek/halaszbastyja.jpg)
-
 Halászbástyja link:https://hu.wikipedia.org/wiki/Hal%C3%A1szb%C3%A1stya
 A bástyáról gyönyörű panoráma nyílik Budapest belvárosára, a Dunára és a Parlamentre.  
 A Halászbástya különlegességei közé tartoznak a mesébe illő tornyai és a teraszai, amelyek a látogatók számára lenyűgöző kilátást biztosítanak.
 
 Google térkép:
 https://maps.app.goo.gl/qCJCEAbG6BrjWvwT7
+Források:Wikipédia,Google térkép
 
 
 
