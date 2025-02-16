@@ -6,53 +6,31 @@
 
 ## Tanulságok és üzenet
 
-A történetben központi szerepet kap a tanulás és fejlődés, de a legfontosabb üzenet az, hogy a sikerhez valódi tudás és alázat szükséges. Mekk Elek karaktere egy szórakoztató, de figyelmeztető példaként szolgál arra, hogy a valódi mesterséghez nem elég csak a szándék; a tudás, tapasztalat és precizitás alapvető fontosságúak. Az epizódok során egy
+A történetben központi szerepet kap a tanulás és fejlődés, de a legfontosabb üzenet az, hogy a sikerhez valódi tudás és alázat szükséges. Mekk Elek karaktere egy szórakoztató, de figyelmeztető példaként szolgál arra, hogy a valódi mesterséghez nem elég csak a szándék; a tudás, tapasztalat és precizitás alapvető fontosságúak.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-: # Postapalota (Pénzmúzeum)
+## Postapalota (Pénzmúzeum)
 
 A **Postapalota**, ma **Pénzmúzeum**, Budapest szecessziós stílusú épülete, amelyet **Weichinger Frigyes** tervezett.  
 Eredetileg a Magyar Királyi Posta központjaként működött.
 
 ![Postapalota](kepek/postapalota1000px.jpg)
 
+Postapalota link: [Wikipédia](https://hu.wikipedia.org/wiki/Postapalota_(Budapest))  
+2005 óta a Magyar Nemzeti Bank **Pénzmúzeumaként** üzemel, bemutatva a pénz történelmét és fejlődését. A látogatók interaktív kiállításokon ismerkedhetnek meg a pénz világával és annak szerepével a gazdaságban.
 
-Posta palota link:https://hu.wikipedia.org/wiki/Postapalota_(Budapest)
-2005 óta a Magyar Nemzeti Bank **Pénzmúzeumaként** üzemel,  
-bemutatva a pénz történelmét és fejlődését. A látogatók interaktív kiállításokon ismerkedhetnek meg a pénz világával  
-és annak szerepével a gazdaságban.
+---
 
-
-
-:# Széll Kálmán tér
+## Széll Kálmán tér
 
 A **Széll Kálmán tér** arculatát meghatározza a **legyező alakú metróépület**, amely 1972 óta működik.  
 Az épület különlegessége, hogy itt található Budapest leghosszabb **mozgólépcsője**, amely a tér és a metró közötti kapcsolatot biztosítja.  
 
 ![Széllkálmántér](kepek/Szellkalmanterr.jpg)
 
+Széll Kálmán tér link: [Wikipédia](https://hu.wikipedia.org/wiki/Sz%C3%A9ll_K%C3%A1lm%C3%A1n_t%C3%A9r)  
+A modern metróépület a tér közlekedési csomópontjaként szolgál, és fontos szerepet játszik a város tömegközlekedési hálózatában. Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelent.
 
-Széll kálmán tér link :https://hu.wikipedia.org/wiki/Sz%C3%A9ll_K%C3%A1lm%C3%A1n_t%C3%A9r
-A modern metróépület a tér közlekedési csomópontjaként szolgál, és fontos szerepet játszik a város tömegközlekedési hálózatában.  
-Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelent
-
-
-Google térkép:
-https://maps.app.goo.gl/Q1LxMB9qWar9DVh46
-Források:Wikipédia,Google térkép
-
-
-
-
-
+[Google térkép link](https://maps.app.goo.gl/Q1LxMB9qWar9DVh46)  
+Források: Wikipédia, Google Térkép
