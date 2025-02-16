@@ -50,6 +50,7 @@ Az épület környezetében számos fontos városi intézmény és üzlet is tal
 
 Google térkép:
 https://maps.app.goo.gl/Q1LxMB9qWar9DVh46
+Források:Wikipédia,Google térkép
 
 
 
