@@ -28,6 +28,7 @@ Eredetileg a Magyar Királyi Posta központjaként működött.
 ![Postapalota](kepek/postapalota1000px.jpg)
 
 
+Posta palota link:https://hu.wikipedia.org/wiki/Postapalota_(Budapest)
 2005 óta a Magyar Nemzeti Bank **Pénzmúzeumaként** üzemel,  
 bemutatva a pénz történelmét és fejlődését. A látogatók interaktív kiállításokon ismerkedhetnek meg a pénz világával  
 és annak szerepével a gazdaságban.
@@ -41,6 +42,8 @@ Az épület különlegessége, hogy itt található Budapest leghosszabb **mozg�
 
 ![Szélkálmántér](kepek/Szellkalmanterr.jpg)
 
+
+Széllkálmán tér link :https://hu.wikipedia.org/wiki/Sz%C3%A9ll_K%C3%A1lm%C3%A1n_t%C3%A9r
 A modern metróépület a tér közlekedési csomópontjaként szolgál, és fontos szerepet játszik a város tömegközlekedési hálózatában.  
 Az épület környezetében számos fontos városi intézmény és üzlet is található, így a tér nemcsak közlekedési, hanem kereskedelmi és kulturális központként is jelent
 
