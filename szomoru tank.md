@@ -15,6 +15,7 @@ Az ilyen műalkotások célja, hogy felhívja a figyelmet a társadalmi egyenlő
 
 
 :# Szabadság tér
+Szabadság tér link:https://hu.wikipedia.org/wiki/Szabads%C3%A1g_t%C3%A9r_(Budapest)
 
 A **Szabadság tér** Budapest belvárosában, a **Duna** partján található, és jelentős történelmi és politikai események színhelye volt. A tér központjában áll a **Szovjet Emlékmű**, amely a második világháborúban elhunyt szovjet katonák előtt tiszteleg.
 
@@ -28,6 +29,7 @@ A tér közelében található a **Parlament** és a **Szent István-bazilika**.
 Az **Andrássy Út** Budapest egyik legismertebb sugárútja, amely 2002 óta az UNESCO Világörökség része. Az utat 1872 és 1886 között építették, és számos fontos épület található rajta, például a híres **Operaház** és a **Hősök Tere**. 
 
 ![Andrássy Út](kepek/andrasiut.jpg)
+Andrési út link:https://hu.wikipedia.org/wiki/Andr%C3%A1ssy_%C3%BAt
 
 A sugárút különleges hangulata és történelmi jelentősége miatt a turisták egyik kedvelt célpontja.
 
