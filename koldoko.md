@@ -34,4 +34,4 @@ Kolodko Mihály tehát nemcsak szobrászként, hanem a városi táj formálásá
 ![Kolodko2](kepek/koldoko9.jpg) ![Kolodko2](kepek/mihaly1.jpg)
 
 ![Kolodko2](kepek/mihaly2.jpg)  ![Kolodko2](kepek/mihaly3.jpg)
-![Kolodko2](kepek/mihaly4.jpg)  ![Kolodko2](kepek/mihaly3.jpg)
+![Kolodko2](kepek/mihaly4.jpg)  ![Kolodko2](kepek/mihaly6.jpg)
