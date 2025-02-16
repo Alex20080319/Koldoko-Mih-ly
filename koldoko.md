@@ -17,13 +17,11 @@ Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem 
 3. **"Miniszobrok és városi művészetek: Kolodko Mihály"**
 4. **Budapesti Városi Művészetek: A miniszobrok hatása**
 5. **Interjú Kolodko Mihállyal**
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="kepek/koldoko3.jpg" alt="Kolodko3">
-  <img src="kepek/image5.jpg" alt="Kolodko2">
-  <img src="kepek/koldoko6.jpg" alt="Kolodko2">
-  <img src="kepek/koldoko7.jpg" alt="Kolodko2">
-  <img src="kepek/koldoko9.jpg" alt="Kolodko2">
-  <img src="kepek/mihaly1.jpg" alt="Kolodko2">
-  <img src="kepek/mihaly2.jpg" alt="Kolodko2">
-</div>
+![Kolodko3](kepek/koldoko3.jpg) ![Kolodko2](kepek/image5.jpg)
+
+![Kolodko2](kepek/koldoko6.jpg) ![Kolodko2](kepek/koldoko7.jpg)
+
+![Kolodko2](kepek/koldoko9.jpg) ![Kolodko2](kepek/mihaly1.jpg)
+
+![Kolodko2](kepek/mihaly2.jpg)
 
