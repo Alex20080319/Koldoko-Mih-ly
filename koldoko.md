@@ -9,14 +9,6 @@ Kolodko Mihály pályafutása nemcsak a szobrászati világban, hanem a városi 
 A művész munkásságának központjában mindig is az volt, hogy a művészet könnyen hozzáférhető legyen mindenki számára, ezért választott olyan helyszíneket a szobrok számára, mint például parkok, terek vagy éppen forgalmas utcák. A **Rubik-kocka** miniszobra, amely Budapest szívében található, szintén a művész egyik legismertebb alkotása, amely a magyar kreativitás egyik szimbólumát ünnepli.
 
 Kolodko Mihály művészete nemcsak a formák és színek harmóniáját, hanem a mélységet is közvetíti. A szobrok nemcsak látványosak, hanem mélyebb jelentéseket is hordoznak, amelyek elgondolkodtatják a nézőt a társadalmi és kulturális kérdésekről. A művész életműve példa arra, hogyan lehet a művészetet mindennapi életünk részévé tenni, miközben a kreativitás határait feszegetjük.
-
-## 1.3 Forrásgyűjtemény
-
-1. **Kolodko Mihály hivatalos weboldal** 
-2. **"Kolodko Mihály - Művészet és társadalom" című cikk**
-3. **"Miniszobrok és városi művészetek: Kolodko Mihály"**
-4. **Budapesti Városi Művészetek: A miniszobrok hatása**
-5. **Interjú Kolodko Mihállyal**
 ![Kolodko3](kepek/koldoko3.jpg) ![Kolodko2](kepek/image5.jpg)
 
 ![Kolodko2](kepek/koldoko6.jpg) ![Kolodko2](kepek/koldoko7.jpg)
