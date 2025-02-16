@@ -14,6 +14,7 @@ A neogótikus stílusú épület 1902-re készült el, és a világ harmadik leg
 
 ![Parlament](kepek/parlament2.jpg)
 
+Parlament link:https://hu.wikipedia.org/wiki/Orsz%C3%A1gh%C3%A1z
 A Duna partján álló épület a magyar törvényhozás székhelye, és a város egyik legfontosabb nevezetessége, amely a látogatók számára vezetett túrák során is felfedezhető.  
 Impozáns belső terét és az Országgyűlés munkáját a helyszínen is megismerhetjük.
 
@@ -25,7 +26,7 @@ A 19. század végén épült neoromán stílusban, és a város egyik legismert
 
 ![Halászbástya](kepek/halaszbastyja.jpg)
 
-
+Halászbástyja link:https://hu.wikipedia.org/wiki/Hal%C3%A1szb%C3%A1stya
 A bástyáról gyönyörű panoráma nyílik Budapest belvárosára, a Dunára és a Parlamentre.  
 A Halászbástya különlegességei közé tartoznak a mesébe illő tornyai és a teraszai, amelyek a látogatók számára lenyűgöző kilátást biztosítanak.
 
