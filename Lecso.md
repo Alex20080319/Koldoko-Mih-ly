@@ -30,8 +30,9 @@ A Zeneakadémia
 A Liszt Ferenc Zeneművészeti Egyetem, közismert nevén Zeneakadémia, egy rangos zenei intézmény, amely 1875-ben alakult.
 Az épület Steindl Imre tervei alapján épült neogótikus stílusban, és az egyik legismertebb zenei iskola Magyarországon.
 
+![Lecsó](kepek/zeneak.jpg)
 
-Zeneakadémia link: Wikipédia
+Zeneakadémia link: Wikipédia          
 A Zeneakadémia a zene és a művészetek iránt érdeklődők számára kulcsfontosságú helyszín. Az épület gyönyörű koncertterme és kulturális eseményei miatt a város egyik legfontosabb zenei központja.
 
 Google térkép link
