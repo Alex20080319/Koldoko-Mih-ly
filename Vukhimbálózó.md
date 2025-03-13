@@ -4,14 +4,6 @@ A **Himbálózó Vuk** egy kedves és játékos miniszobor, amely a híres magya
 
 ![Vuk himbálózó](kepek/Alexvuk.jpg)
 
-## A szobor jellemzői
-
-- **Anyaga:** Kézzel festett kerámia vagy bronz  
-- **Méret:** Kb. 15-20 cm magas  
-- **Színek:** Narancssárga bundájú Vuk, fehér mellkas és fekete orr  
-- **Részletek:** Kidolgozott arcvonások, mozgásban lévő farok és lábak  
-- **Talapzat:** Természetes hatású fatörzs vagy kőlap  
-
 ## A szobor mondanivalója
 
 A Himbálózó Vuk nemcsak egy dekorációs elem, hanem egy kedves emlékeztető arra, hogy a gyermeki játékosság és a természet szeretete örök értékek. Vuk figurája a szabadságot, a kíváncsiságot és a bátorságot jelképezi.
