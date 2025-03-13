@@ -16,7 +16,7 @@ Források: [Wikipédia - Herzl Tivadar](https://hu.wikipedia.org/wiki/Herzl_Tiva
 
 Dohány utcai zsinagóga
 A Dohány utcai zsinagóga Európa legnagyobb és a világ második legnagyobb zsinagógája. 1859-ben épült mór stílusban, tervezője Ludwig Förster volt. A zsinagóga nemcsak vallási központ, hanem történelmi emlékhely is, mivel a holokauszt idején a budapesti gettó része volt.
-
+![](kepek/zsinagoga.jpg)
 
 Wikipédia link
 
