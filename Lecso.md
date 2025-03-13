@@ -2,7 +2,7 @@ Kolodko: Lecsó miniszobor
 A Lecsó miniszobor egy humoros és szívmelengető alkotás Kolodko Mihálytól, amely a magyar konyha egyik legismertebb ételét, a lecsót idézi meg miniatűr formában. A szobor egy vidám, apró főzőedényt ábrázol, színes paprikák, paradicsomok és hagymák fortyognak, mintha éppen a tűzhelyről emelték volna le.
 
 
-![Lecsó](kepek/lecsó.jpg)
+![Lecsó](kepek/lecso.jpg)
 
 
 A szóbor mondanivalója
