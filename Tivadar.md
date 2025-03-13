@@ -27,6 +27,7 @@ Google térkép link
 Rumbach utcai zsinagóga
 A Rumbach utcai zsinagóga egy 1872-ben épült, keleties stílusú zsinagóga, amelyet Otto Wagner tervezett. Bár kisebb, mint a Dohány utcai zsinagóga, különleges építészeti megoldásai miatt Budapest egyik rejtett gyöngyszeme.
 
+![](kepek/zsinagoga2.jpg)
 
 Wikipédia link
 
