@@ -14,3 +14,22 @@ Források: [Wikipédia - Herzl Tivadar](https://hu.wikipedia.org/wiki/Herzl_Tiva
 
 [Google Térkép link](https://maps.app.goo.gl/Rw34JMFGxTXWMTB5A)
 
+Dohány utcai zsinagóga
+A Dohány utcai zsinagóga Európa legnagyobb és a világ második legnagyobb zsinagógája. 1859-ben épült mór stílusban, tervezője Ludwig Förster volt. A zsinagóga nemcsak vallási központ, hanem történelmi emlékhely is, mivel a holokauszt idején a budapesti gettó része volt.
+
+
+Wikipédia link
+
+A zsinagóga komplexumában található a Holokauszt Emlékpark, amely a vészkorszak áldozatainak állít emléket. Az épület és környéke Budapest egyik legjelentősebb kulturális és vallási központja.
+
+Google térkép link
+
+Rumbach utcai zsinagóga
+A Rumbach utcai zsinagóga egy 1872-ben épült, keleties stílusú zsinagóga, amelyet Otto Wagner tervezett. Bár kisebb, mint a Dohány utcai zsinagóga, különleges építészeti megoldásai miatt Budapest egyik rejtett gyöngyszeme.
+
+
+Wikipédia link
+
+A zsinagóga a XX. század folyamán több funkciót is betöltött, de a közelmúltban felújították, és ma kulturális eseményeknek is otthont ad.
+
+Google térkép link
