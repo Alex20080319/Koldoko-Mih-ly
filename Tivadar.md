@@ -2,7 +2,7 @@
 
 A **Herzl Tivadar miniszobor** egy apró, mégis jelentőségteljes alkotás **Kolodko Mihálytól**, amely a híres magyar származású cionista vezetőt, **Herzl Tivadart** ábrázolja. A szobor egy miniatűr vasúti kocsit formáz, amely Herzl híres fényképére utal: a fotón egy bécsi erkélyen állva tekint a távolba.
 
-![Herzl Tivadar miniszobor](kepek/herzltivadar.jpg)
+![Herzl Tivadar miniszobor](kepek/tivadarszob.jpg)
 
 ### A szobor jelentése
 Herzl Tivadar a modern cionizmus egyik alapítója volt, és nagy hatással volt Izrael állam létrejöttére. Kolodko szobra játékosan, mégis tiszteletteljesen emlékezik meg róla, utalva arra az ikonikus pillanatra, amelyben Herzl a jövőt fürkészi.
