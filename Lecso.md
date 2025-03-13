@@ -13,4 +13,4 @@ A Lecsó miniszobor jelenleg csak elképzelt alkotás, de ha Kolodko Mihály meg
 
 Források:  Lecsó recept és története , Kolodko Mihály miniszobrai 
 
-Google Térkép link: (Konkrét helyszín híján ez jelenleg hiányzik, de ha van tipped, szívesen beillesztek egyet
+Google Térkép link: https://maps.app.goo.gl/giNxYQm3Jrya1x2n7
