@@ -2,7 +2,7 @@
 
 A **Skála Kópé miniszobor** egy kültéri alkotás **Kolodko Mihálytól**, amely a legendás Skála áruház egykori kabalafiguráját, **Skála Kópét** ábrázolja. A szobor egy kedves, apró figura, amely visszarepíti a látogatókat a 20. század végi Magyarország reklámvilágába.  
 
-![Skála Kópé](/kope3.jpg)  
+![Kópé](kepek/kope3.jpg)
 
 ### A szobor jelentése  
 A Skála Kópé a **Skála áruházlánc** ikonikus figurája volt a 1970-es és 1980-as években, amikor a reklámokban és a boltok dekorációiban is megjelent. Kolodko ezzel a miniszoborral egy letűnt korszakra, a magyar kereskedelem egyik legismertebb kabalafigurájára emlékeztet bennünket.  
