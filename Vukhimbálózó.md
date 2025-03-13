@@ -38,6 +38,7 @@ Az 1849-ben átadott híd Magyarország első állandó hídja volt, és Széche
 Lánchíd link: Wikipédia
 
  A híd nemcsak mérnöki bravúr, hanem Budapest egyik szimbóluma is, amit esténként gyönyörűen kivilágítanak. A hídon sétálva a látogatók megcsodálhatják a Duna-parti panorámát, beleértve a Budai Várat és a Parlamentet. 
+  ![Lánchíd](kepek/Lánchid.jpg)
 
 A híres oroszlánszobrok, hogy a híd két végét őrzik, szintén különleges látványt nyújtanak.
 
@@ -53,7 +54,7 @@ A szobrot 1947-ben állították fel, és eredetileg a II. világháborús győz
 Szabadság-szobor link: Wikipédia
 
  A Gellért-hegyről pazar kilátás nyílik a városra, a Dunára és a hidakra. A hegy zöldövezete tökéletes hely egy sétára, míg a szobor monumentalitása minden látogatót lenyűgöz. 
- ![Vul himbálózo](kepek/szabadságszob.jpg)
+ ![VSzabadságszoborr](kepek/szabadságszob.jpg)
 
 
 A hely történelmi és természeti szépsége miatt is kihagyhatatlan.
