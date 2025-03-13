@@ -21,7 +21,7 @@ Google Térkép link: https://maps.app.goo.gl/giNxYQm3Jrya1x2n
 Az Operaház
 A Magyar Állami Operaház egy impozáns neoreneszánsz stílusú épület Budapesten, amelyet Ybl Miklós tervezett.
 Az épület 1884 óta működik, és Magyarország egyik legismertebb kulturális intézménye. Az Operaház a klasszikus operák, balettek és más zenei előadások otthona.
-![Lecsó](kepek/.jpg)
+![Lecsó](kepek/.operajpg)
 
 Operaház link: Wikipédia
 Az Operaház belső terét különleges akusztika és látványos díszítés jellemzi, a híres Aranyteremmel és a főhomlokzati oszlopcsarnokkal. A látogatók a gyönyörű belsőt is megtekinthetik az épület túrái során, vagy részt vehetnek egy-egy előadáson.
