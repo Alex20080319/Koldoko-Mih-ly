@@ -18,6 +18,8 @@ A miniszobor **Budapesten**, az egykori **Skála áruház közelében** találha
 
 A **Budai Skála** egykor Budapest egyik legismertebb bevásárlóközpontja volt. 1984-ben nyitotta meg kapuit, és a szocializmus egyik legnagyobb modern áruházaként üzemelt. Bár az eredeti Skála már nem létezik, az épület továbbra is fontos bevásárlóhelyszín maradt, ma **MOM Park** néven ismert.  
 
+![Budai Skála](/kepek/buda.jpg)
+
 🔗 [Wikipédia link](https://hu.wikipedia.org/wiki/Skála_Áruház)  
 
 A Budai Skála egy korszak szimbóluma volt, ahol az emberek sorban álltak a legújabb importárukért, és ahol a Skála Kópé figurája is először megjelent.  
