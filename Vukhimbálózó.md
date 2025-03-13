@@ -4,7 +4,7 @@ A Himbálózó Vuk egy kedves és játékos miniszobor, amely a híres magyar me
 
 
 
-![Vul himbálózo](kepek/Alexvuk)
+![Vul himbálózo](kepek/Alexvuk.jpg)
 
 A szobor jellemzői
 
