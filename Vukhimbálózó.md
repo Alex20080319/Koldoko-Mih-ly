@@ -17,8 +17,7 @@ Színek: Narancssárga bundájú Vuk, fehér mellkas és fekete orr
 Részletek: Kidolgozott arcvonások, mozgásban lévő farok és lábak
 
 Talapzat: Természetes hatású fatörzs vagy kőlap
-
-(Fotó: A szobor közelről, részletes kidolgozás látható.)
+ 
 
 A szobor mondanivalója
 
@@ -27,8 +26,6 @@ A Himbálózó Vuk nemcsak egy dekorációs elem, hanem egy kedves emlékeztető
 Hol található meg?
 
 A szobor egyedi alkotásként rendelhető, vagy alkalmanként kiállításokon is megtekinthető. Gyűjtők és meseimádók számára különleges darab lehet otthonukban vagy ajándékként.
-
-(Fotó: A szobor egy kiállításon bemutatva.)
 
 Google térkép linkForrások: Magyar mesék, szobrászati gyűjtemények
 Széchenyi Lánchíd
