@@ -31,3 +31,36 @@ A szobor egyedi alkotásként rendelhető, vagy alkalmanként kiállításokon i
 (Fotó: A szobor egy kiállításon bemutatva.)
 
 Google térkép linkForrások: Magyar mesék, szobrászati gyűjtemények
+Széchenyi Lánchíd
+A Széchenyi Lánchíd Budapest ikonikus hídja, amely a Duna felett ível át, összekötve Pestet és Budát. 
+
+Az 1849-ben átadott híd Magyarország első állandó hídja volt, és Széchenyi István kezdeményezésére épült.
+
+
+
+Lánchíd link: Wikipédia
+
+ A híd nemcsak mérnöki bravúr, hanem Budapest egyik szimbóluma is, amit esténként gyönyörűen kivilágítanak. A hídon sétálva a látogatók megcsodálhatják a Duna-parti panorámát, beleértve a Budai Várat és a Parlamentet. 
+
+A híres oroszlánszobrok, hogy a híd két végét őrzik, szintén különleges látványt nyújtanak.
+
+Helyszín: Budapest, a Pest és Buda közötti Duna-szakasz.
+
+Gellért-hegy és a Szabadság-szobor
+A Gellért-hegy Budapest egyik legismertebb dombja, tetején a híres Szabadság-szoborral , amely a város fölé magasodik. 
+
+A szobrot 1947-ben állították fel, és eredetileg a II. világháborús győzelem emlékére készült, de ma már a szabadság jelképeként ismert.
+
+
+
+Szabadság-szobor link: Wikipédia
+
+ A Gellért-hegyről pazar kilátás nyílik a városra, a Dunára és a hidakra. A hegy zöldövezete tökéletes hely egy sétára, míg a szobor monumentalitása minden látogatót lenyűgöz. 
+
+A hely történelmi és természeti szépsége miatt is kihagyhatatlan.
+
+Helyszín: Budapest, XI. kerület, Gellért-hegy.
+
+Google térkép link
+
+ Források: Wikipédia, Google Térkép
